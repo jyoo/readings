@@ -1,4 +1,4 @@
-# { Readings }
+# Readings
 
 ## Intro
 There are so many readings, articles, journals we can read on the Internet these days. In this repository, you can leave a title and url of readings that you would like to introduce to other people.
