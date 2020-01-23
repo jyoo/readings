@@ -1,3 +1,6 @@
+### Jan 22, 2020
+- [https://javascript.info](https://javascript.info)
+
 ### Jan 15, 2020
 - [Eloquent JavaScript](https://eloquentjavascript.net/index.html) by Marijn Haverbeke
 

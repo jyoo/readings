@@ -11,10 +11,10 @@ NOTE: Reading for an affiliate program, promotion or advertisement will not be a
 
 ## Waiting List
 
-### Jan 20, 2020
+### Jan 24, 2020
 - (Add title and link of your reading here)
 
-### Jan 19, 2020
+### Jan 23, 2020
 
 
 
