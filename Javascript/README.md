@@ -1,3 +1,6 @@
+### Feb 01, 2020
+- [Understanding JavaScript Bind ()](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/) by Ben Howdle
+
 ### Jan 22, 2020
 - [https://javascript.info](https://javascript.info)
 
