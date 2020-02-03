@@ -1,3 +1,6 @@
+### Feb 02, 2020
+- [DBnomics - the world's economic database](https://db.nomics.world)
+
 ### Jan 14, 2020
 - [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/) by Maxime Beauchemin
 

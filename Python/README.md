@@ -1,3 +1,7 @@
+### Feb 02, 2020
+- [The 22 Most-Used Python Packages in the World](https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e) by Erik-Jan van Baaren
+
+
 ### Feb 01, 2020
 - [Django & React: JWT Authentication](https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a) by Dakota Lillie
 

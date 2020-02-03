@@ -1,7 +1,7 @@
 # Readings
 
 ## Intro
-There are so many readings, articles, journals we can read on the Internet these days. In this repository, you can leave a title and url of readings that you would like to introduce to other people.
+There are so many readings, articles, journals we can read on the Internet these days. However, we do not have enough time to read everything. That's why this repo exists. In this repo, you can leave a title and url of readings that you would like to share with others.
 
 ## How To Do
 Please choose one of the following methods to leave it in this repo:
