@@ -1,3 +1,6 @@
+### Feb 04, 2020
+- [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/) by Max Pekarsky
+
 ### Feb 01, 2020
 - [React Function Components](https://www.robinwieruch.de/react-function-component) by Robin Wieruch
 
