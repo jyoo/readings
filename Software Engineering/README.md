@@ -1,3 +1,6 @@
+### Feb 04, 2020
+- [Hello World: Want to be a developer? Learn how to learn](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/) by Jerome Hardaway
+
 ### Feb 02, 2020
 - [Avoiding burnout as an ambitious developer](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/) by Cassidy Williams
 
