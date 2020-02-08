@@ -1,3 +1,8 @@
+### Feb 07, 2020
+- [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html) by Cliqz
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) by ./missing-semester
+
 ### Feb 04, 2020
 - [Hello World: Want to be a developer? Learn how to learn](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/) by Jerome Hardaway
 
