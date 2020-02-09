@@ -7,14 +7,15 @@ There are so many readings, articles, journals we can read on the Internet these
 Please choose one of the following methods to leave it in this repo:
 - Go to Issues and create a new issue (including a title and link of your reading)
 - Do pull request by adding a title and link of the reading in the below Waiting List
+
 NOTE: Reading for an affiliate program, promotion or advertisement will not be added below, and can be deleted anytime.
 
 ## Waiting List
 
-### Feb 08, 2020
+### Feb 11, 2020
 - (Add title and link of your reading here)
 
-### Feb 07, 2020
+### Feb 10, 2020
 
 
 
