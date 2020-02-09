@@ -1,3 +1,6 @@
+### Feb 09, 2020
+- [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by Samuel Oloruntoba
+
 ### Feb 07, 2020
 - [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html) by Cliqz
 

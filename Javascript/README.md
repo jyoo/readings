@@ -1,3 +1,8 @@
+### Feb 09, 2020
+- [20+ Web Projects With Vanilla JavaScript](https://github.com/bradtraversy/vanillawebprojects) by bradtraversy
+/
+vanillawebprojects
+
 ### Feb 04, 2020
 - [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/) by Max Pekarsky
 
