@@ -1,3 +1,8 @@
+### Feb 12, 2020
+- [React Conditional Rendering](https://www.robinwieruch.de/conditional-rendering-react)
+
+- [React Higher Order Components](https://www.robinwieruch.de/react-higher-order-components)
+
 ### Feb 04, 2020
 - [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/) by Max Pekarsky
 
