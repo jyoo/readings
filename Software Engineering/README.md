@@ -1,3 +1,6 @@
+### Feb 13, 2020
+- [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
+
 ### Feb 09, 2020
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by Samuel Oloruntoba
 
