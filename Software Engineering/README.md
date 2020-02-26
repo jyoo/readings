@@ -1,3 +1,6 @@
+### Feb 26, 2020
+- [The Developer’s Way](https://a16z.com/2020/01/09/the-developers-way/)
+
 ### Feb 14, 2020
 - [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/) by Jake Voytko
 
