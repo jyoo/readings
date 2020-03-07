@@ -1,3 +1,6 @@
+### Mar 06, 2020
+- [Ninja code](https://javascript.info/ninja-code#side-effects-everywhere)
+
 ### Feb 09, 2020
 - [20+ Web Projects With Vanilla JavaScript](https://github.com/bradtraversy/vanillawebprojects) by bradtraversy
 /
