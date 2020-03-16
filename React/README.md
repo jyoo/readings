@@ -1,3 +1,10 @@
+### Mar 16, 2020
+- [React Tutorial: Building and Securing Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/?_ga=2.239746115.1395329317.1582953156-924973212.1582356522)
+
+- [Handling Authentication in React with Context and Hooks](https://auth0.com/blog/handling-authentication-in-react-with-context-and-hooks/)
+
+- [Session Storage and Local Storage in React](https://www.robinwieruch.de/local-storage-react)
+
 ### Feb 12, 2020
 - [React Conditional Rendering](https://www.robinwieruch.de/conditional-rendering-react)
 
