@@ -1,6 +1,12 @@
 ### Mar 17, 2020
 - [Handling timeout in Axios](https://medium.com/@masnun/handling-timeout-in-axios-479269d83c68)
 
+- [Promise.all with Async/Await](https://www.taniarascia.com/promise-all-with-async-await/)
+
+- [Asynchronous JavaScript: Advanced Promises with Node.js](https://www.twilio.com/blog/asynchronous-javascript-advanced-promises-chaining-collections-nodejs)
+
+- [Error handling with promises](https://javascript.info/promise-error-handling)
+
 ### Mar 16, 2020
 - [Building a simple REST API with NodeJS and Express.](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
 

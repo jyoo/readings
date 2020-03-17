@@ -1,3 +1,6 @@
+### Mar 17, 2020
+- [Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
+
 ### Mar 16, 2020
 - [React Tutorial: Building and Securing Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/?_ga=2.239746115.1395329317.1582953156-924973212.1582356522)
 
