@@ -1,3 +1,6 @@
+### Mar 27, 2020
+- [ES6 — Set vs Array — What and when?](https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a)
+
 ### Mar 17, 2020
 - [Handling timeout in Axios](https://medium.com/@masnun/handling-timeout-in-axios-479269d83c68)
 
